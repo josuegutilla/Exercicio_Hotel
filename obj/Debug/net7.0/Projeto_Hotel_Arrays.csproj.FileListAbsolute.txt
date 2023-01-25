@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\bin\Debug\net7.0\Projeto_Hotel_Arrays.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\bin\Debug\net7.0\Projeto_Hotel_Arrays.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\bin\Debug\net7.0\Projeto_Hotel_Arrays.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\bin\Debug\net7.0\Projeto_Hotel_Arrays.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\bin\Debug\net7.0\Projeto_Hotel_Arrays.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\refint\Projeto_Hotel_Arrays.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\Projeto_Hotel_Arrays.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Projeto_Hotel_Arrays\obj\Debug\net7.0\ref\Projeto_Hotel_Arrays.dll
